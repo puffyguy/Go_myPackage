@@ -1,4 +1,4 @@
-package myPackage
+package Go_myPackage
 
 import "fmt"
 
