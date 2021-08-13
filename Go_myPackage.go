@@ -5,7 +5,7 @@ import "fmt"
 func Hello() {
 	fmt.Println("Hello Welcome To GoLang")
 }
-func add(a, b int) int{
+func Add(a, b int) int{
 	sum := a+b
 	fmt.Println("Addition is", sum)
 }
